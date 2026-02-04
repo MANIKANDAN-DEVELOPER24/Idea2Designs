@@ -2,10 +2,10 @@
 import {
   Code,
   TrendingUp,
-  Smartphone,
+  // Smartphone,
   Palette,
-  ShoppingCart,
-  Megaphone,
+  // ShoppingCart,
+  // Megaphone,
   CheckCircle,
 } from "lucide-react";
 import { Link } from "react-router-dom";
