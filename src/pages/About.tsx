@@ -1,5 +1,7 @@
 import { Target, Heart, Award, Users } from "lucide-react";
 import Testimonials from "../components/Testimonials";
+import logo1 from "../assets/logos/logo1.png";
+import logo2 from "../assets/logos/logo2.png";
 
 export default function About() {
   const team = [
@@ -30,8 +32,8 @@ export default function About() {
   ];
 
  const customers = [
-   { name: "SplGain Money", logo: "/logos/logo1.png" },
-   { name: "RightTouch", logo: "/logos/logo2.png" },
+   { name: "SplGain Money", logo: logo1 },
+   { name: "RightTouch", logo:logo2 },
   //  { name: "Amaze Consultancy", logo: "#" },
   //  { name: "CloudSync", logo: "/logos/cloudsync.png" },
   //  { name: "DataPro", logo: "/logos/datapro.png" },
