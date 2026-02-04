@@ -57,51 +57,51 @@ export default function Services() {
       ],
       color: "from-purple-500 to-purple-600",
     },
-    {
-      icon: <ShoppingCart className="w-12 h-12 text-orange-600" />,
-      title: "E-commerce Solutions",
-      description:
-        "Launch and grow your online store with powerful e-commerce platforms and strategies.",
-      features: [
-        "Online store development",
-        "Payment gateway integration",
-        "Inventory management",
-        "Product catalog design",
-        "Shopping cart optimization",
-        "Order management systems",
-      ],
-      color: "from-orange-500 to-orange-600",
-    },
-    {
-      icon: <Smartphone className="w-12 h-12 text-cyan-600" />,
-      title: "Mobile App Development",
-      description:
-        "Engage your customers on the go with intuitive mobile applications for iOS and Android.",
-      features: [
-        "Native iOS & Android apps",
-        "Cross-platform development",
-        "App UI/UX design",
-        "App store optimization",
-        "Push notifications",
-        "App maintenance & updates",
-      ],
-      color: "from-cyan-500 to-cyan-600",
-    },
-    {
-      icon: <Megaphone className="w-12 h-12 text-rose-600" />,
-      title: "Digital Strategy",
-      description:
-        "Develop comprehensive digital strategies that align with your business goals and drive growth.",
-      features: [
-        "Digital transformation",
-        "Competitor analysis",
-        "Customer journey mapping",
-        "Growth strategy planning",
-        "Technology consulting",
-        "Performance metrics",
-      ],
-      color: "from-rose-500 to-rose-600",
-    },
+    // {
+    //   icon: <ShoppingCart className="w-12 h-12 text-orange-600" />,
+    //   title: "E-commerce Solutions",
+    //   description:
+    //     "Launch and grow your online store with powerful e-commerce platforms and strategies.",
+    //   features: [
+    //     "Online store development",
+    //     "Payment gateway integration",
+    //     "Inventory management",
+    //     "Product catalog design",
+    //     "Shopping cart optimization",
+    //     "Order management systems",
+    //   ],
+    //   color: "from-orange-500 to-orange-600",
+    // },
+    // {
+    //   icon: <Smartphone className="w-12 h-12 text-cyan-600" />,
+    //   title: "Mobile App Development",
+    //   description:
+    //     "Engage your customers on the go with intuitive mobile applications for iOS and Android.",
+    //   features: [
+    //     "Native iOS & Android apps",
+    //     "Cross-platform development",
+    //     "App UI/UX design",
+    //     "App store optimization",
+    //     "Push notifications",
+    //     "App maintenance & updates",
+    //   ],
+    //   color: "from-cyan-500 to-cyan-600",
+    // },
+    // {
+    //   icon: <Megaphone className="w-12 h-12 text-rose-600" />,
+    //   title: "Digital Strategy",
+    //   description:
+    //     "Develop comprehensive digital strategies that align with your business goals and drive growth.",
+    //   features: [
+    //     "Digital transformation",
+    //     "Competitor analysis",
+    //     "Customer journey mapping",
+    //     "Growth strategy planning",
+    //     "Technology consulting",
+    //     "Performance metrics",
+    //   ],
+    //   color: "from-rose-500 to-rose-600",
+    // },
   ];
 
   return (
