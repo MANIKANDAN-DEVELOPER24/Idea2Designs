@@ -33,24 +33,6 @@ const testimonials: Testimonial[] = [
     image: "testimonials/logo3.jpeg",
     link: "",
   },
-  //   {
-  //     id: 2,
-  //     name: "Suresh Mani",
-  //     location: "Coimbatore",
-  //     review: "Very professional service and on-time pickup.",
-  //     rating: 4,
-  //     image: "https://i.pravatar.cc/150?img=32",
-  //     link: "https://facebook.com",
-  //   },
-  //   {
-  //     id: 3,
-  //     name: "Priya Devi",
-  //     location: "Madurai",
-  //     review: "Best scrap collection service I’ve used.",
-  //     rating: 5,
-  //     image: "https://i.pravatar.cc/150?img=45",
-  //     link: "https://twitter.com",
-  //   },
 ];
 
 const Testimonials = () => {
